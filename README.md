@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm currently an ICT engineering student at SUP'COM Tunisia in the path of becoming a great software engineer!
+you can find the projects that I've worked on during my learning process in this github account.
+
+
 
 <!--
 **ayoubbenomrane/ayoubbenomrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
