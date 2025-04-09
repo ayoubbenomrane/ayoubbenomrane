@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm currently an ICT engineering student at SUP'COM Tunisia in the path of becoming a great software engineer!
-you can find the projects that I've worked on during my learning process in this github account.
+You can find the projects that I've worked on during my learning process in this github account.
 
 
 
