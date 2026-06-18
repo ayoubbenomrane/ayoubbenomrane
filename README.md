@@ -1,6 +1,6 @@
 ### Hi, I'm Ayoub 👋
 
-  Full-stack & backend engineer, ICT Engineering graduate from **SUP'COM**. I build **secure, production-grade web systems** — and I care as much about the auth layer as the feature on
+  Backend & Full-stack engineer, ICT Engineering graduate from **SUP'COM**. I build **secure, production-grade web systems** — and I care as much about the auth layer as the feature on
   top of it.
 
   🔭 **Recent work** — at CannyVision I built a self-hosted, Zero Trust Ticket Management System (Jakarta EE + MySQL) with a custom **OAuth 2.1 / PKCE** IAM module and a custom
